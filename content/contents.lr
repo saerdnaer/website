@@ -17,6 +17,7 @@ The following example shows how it looks like (compatible with both version 0.13
 
 ```json
 {
+  "$schema": "https://schema.spaceapi.io/14.json",
   "api": "0.13",
   "api_compatibility": ["14"],
   "space": "Shackspace",
